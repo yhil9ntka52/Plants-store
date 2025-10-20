@@ -91,5 +91,6 @@
 
 ## DB 
 
-![Database](image/Database.png)
+![Database](https://github.com/yhil9ntka52/Plants-store/blob/main/image/Database.png?raw=true)
+
 
