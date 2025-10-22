@@ -93,3 +93,8 @@
 ## DB 
 
 ![Database]()
+
+Як запустити тести:
+pip install -r requirements.txt
+pytest --cov=. --cov-report=term-missing
+
